@@ -18,3 +18,32 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+.info-list,
+.countries-card{
+  list-style: none;
+}
+
+.list-flag{
+  width: 100px;
+  height: 50px;
+}
+
+.flag{
+  width: 150px;
+  height: 75px;
+}
+
+.wrapper{
+  margin-left: 40px;
+}
+
+.info-title{
+  font-size: 24px;
+}
+
+.info-item{
+  font-size: 30px;
+  font-weight: 600;
+  
+}
